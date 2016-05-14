@@ -4,7 +4,7 @@ package com.ch.main;
  * @date:2016年4月16日 下午5:51:41
  * 
  */
-public class MAttribute {
+public class MAttribute  {
 
 	private String url;
 	
@@ -36,5 +36,6 @@ public class MAttribute {
 	public String toString() {
 		return "name: " + name + " url: " + url;
 	}
+
 	
 }
